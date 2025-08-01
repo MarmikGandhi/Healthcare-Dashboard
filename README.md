@@ -2,7 +2,7 @@
 
 This repository presents an interactive **Healthcare Dashboard** built in **Power BI**, leveraging real-world hospital and patient data to visualize key performance indicators across departments, patient types, ER times, feedback, and more.
 
-![Dashboard Preview](./Screenshot%20\(363\).png)
+![Dashboard Preview](Dashboard.png)
 
 ---
 
